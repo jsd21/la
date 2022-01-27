@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c14e62-13f0-4df3-92e5-585313ba298d" name="Changes" comment="" />
+    <list default="true" id="25c14e62-13f0-4df3-92e5-585313ba298d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,8 @@
       <updated>1642896128874</updated>
       <workItem from="1642896134275" duration="1000" />
       <workItem from="1642896148128" duration="48000" />
+      <workItem from="1643317197534" duration="207000" />
+      <workItem from="1643317456020" duration="132000" />
     </task>
     <servers />
   </component>
